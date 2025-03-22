@@ -65,8 +65,4 @@ java -jar target/JNDIInjectorGUI-1.0-SNAPSHOT.jar
 
 ## 开发者
 
-- **Minshenyao**
-
-## 许可证
-
-[MIT License](LICENSE)
+- [Minshenyao](https://github.com/Minshenyao)
