@@ -1,6 +1,6 @@
 # JNDI注入测试工具
 
-一个用于安全研究的JNDI注入测试工具，集成了RMI、LDAP和HTTP文件服务，提供图形界面进行统一管理。
+一个用于安全研究的JNDI注入测试工具，参考了[marshalsec](https://github.com/mbechler/marshalsec)的代码，集成了RMI、LDAP和HTTP文件服务，提供图形界面进行统一管理。
 
 ## 功能特点
 
